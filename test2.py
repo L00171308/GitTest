@@ -15,3 +15,7 @@ for ii in range(year):
             print(real_thoughts)
             
 #  this is test 2
+def test():
+    print("And im a new test function")
+
+test()
