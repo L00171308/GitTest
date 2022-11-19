@@ -34,7 +34,6 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest
-        pip install UserDict
         pip install OrderedDict
         python -m pytest
         
