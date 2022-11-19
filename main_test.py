@@ -18,4 +18,4 @@ for ii in range(year):
             lifelist.append(real_thoughts)
             print(real_thoughts)
 
-assert type(lifelist) == "list"
+assert len(lifelist) > 52
